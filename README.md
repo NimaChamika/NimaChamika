@@ -9,7 +9,7 @@ Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaChamika)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaChamika&exclude_repo=NimaChamika.github.io)
 
 
 <!---
