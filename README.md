@@ -2,10 +2,13 @@ Hi there 👋
 - I'm Nirmal Chamika
 
 ## 🔧 Technologies & Tools
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=1182c3)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ## &#x1f4c8; GitHub Stats
 
