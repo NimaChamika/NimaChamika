@@ -1,18 +1,21 @@
 Hi there 👋
 - I'm Nirmal Chamika
+- a senior Software Engineer with 5 years of experience.
+- a front-end developer with expertise in React.js
+- a game developer proficient in Unity 3D and Pixi.js
+- a mobile app developer experienced in Flutter
+- passionate about crafting intuitive and visually appealing applications that deliver exceptional user experiences.
+- excel at tackling complex problems, leveraging my experience and problem-solving skills to deliver innovative solutions.
+- 
 
 ## 🔧 Technologies & Tools
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
-## &#x1f4c8; GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaChamika&exclude_repo=NimaChamika.github.io,SnakeLadderNew,GuideMeNima)
 
 
 <!---
