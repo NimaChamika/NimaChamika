@@ -1,12 +1,11 @@
 Hi there 👋
 - I'm Nirmal Chamika
-- a senior Software Engineer with 5 years of experience.
-- a front-end developer with expertise in React.js
-- a game developer proficient in Unity 3D and Pixi.js
-- a mobile app developer experienced in Flutter
+- a <b>Senior Software Engineer</b> with 5 years of experience.
+- a <b>Front-End Developer</b> with expertise in React.js
+- a <b>Game Developer</b> proficient in Unity 3D and Pixi.js
+- a <b>Mobile App Developer</b> experienced in Flutter
 - passionate about crafting intuitive and visually appealing applications that deliver exceptional user experiences.
 - excel at tackling complex problems, leveraging my experience and problem-solving skills to deliver innovative solutions.
-- 
 
 ## 🔧 Technologies & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
